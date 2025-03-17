@@ -2,7 +2,7 @@
 
 ## How to Test `crud.py`
 
-To test the `my_select.py` script, follow these steps:
+To test the `crud.py` script, follow these steps:
 
 run virtual env.
 activate virtual env.
